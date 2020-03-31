@@ -50,5 +50,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.4', '>= 4.4.3'
-gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'simple_form', '~> 5.0'
 gem 'haml', '~> 5.0', '>= 5.0.4'
